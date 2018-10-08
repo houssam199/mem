@@ -1,0 +1,6 @@
+token=NDk4ODIwMjEwNzk5NjczMzY0.DpzSnA.2BhcvM6urdqbafH79oTT2-d8LVg
+owner=433632050432442370
+prefix=TA
+game=Tybe Tahelp
+stayinchannel=true
+songinstatus=true
